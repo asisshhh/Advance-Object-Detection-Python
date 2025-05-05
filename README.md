@@ -58,7 +58,7 @@ This is a real-time object detection application built with Python, using multip
 
 ## Notes
 
-- The application automatically saves detection history to a SQLite database
+- The application automatically saves detection history to a MongoDb database
 - Detection statistics are updated in real-time
 - Alerts are triggered based on configurable thresholds
 - Reports can be exported in CSV format with accompanying visualizations 
